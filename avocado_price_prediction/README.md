@@ -1,6 +1,6 @@
 # Avocado Price Prediction
 
-A beginner-level regression project that predicts the average retail price per Hass avocado from weekly market data across 54 US sub-markets.
+A regression project that predicts the average retail price per Hass avocado from weekly market data across 54 US sub-markets.
 
 ## Problem Statement
 Given the type (conventional / organic), region, year/week, total volume, and PLU-level volume breakdowns, predict the average retail price per avocado in USD.
