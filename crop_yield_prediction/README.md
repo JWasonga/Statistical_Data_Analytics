@@ -1,6 +1,6 @@
 # Crop Yield Prediction
 
-A beginner-level regression project that predicts crop yield (hectograms per hectare) across 101 countries and 10 crop types using climate and agricultural input features from the FAO/Kaggle dataset.
+A regression project that predicts crop yield (hectograms per hectare) across 101 countries and 10 crop types using climate and agricultural input features from the FAO/Kaggle dataset.
 
 ## Problem Statement
 Given country, crop type, year, annual rainfall, pesticide usage, and average temperature, predict the continuous crop yield in hectograms per hectare (`hg/ha_yield`). This kind of model can support agricultural planning, food-security assessments, and resource allocation decisions.
