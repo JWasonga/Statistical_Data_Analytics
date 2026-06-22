@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A curated collection of beginner-friendly data science projects featuring real-world datasets, statistical modeling pipelines, and exploratory machine learning workflows.
+  A curated collection of data science projects featuring real-world datasets, statistical modeling pipelines, and exploratory machine learning workflows.
 </p>
 
 ---
