@@ -5,9 +5,6 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
-  <a href="https://github.com"><img src="https://shields.io"" alt="Stars"></a>
-  <a href="https://github.com"><img src="https://shields.io"" alt="Forks"></a>
-  <a href="https://github.com"><img src="https://shields.io"" alt="Issues"></a>
   <a href="CONTRIBUTING.md""><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
 </p>
 
