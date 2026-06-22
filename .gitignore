@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments (Local environments)
+venv/
+.venv/
+env/
+ENV/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data files (Prevents uploading huge datasets)
+*.csv
+*.xlsx
+*.json
+*.zip
+*.pkl
+
+# Secrets and environment variables (API keys)
+.env
+secret_*.txt
