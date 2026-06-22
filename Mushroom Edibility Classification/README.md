@@ -1,6 +1,6 @@
 # Mushroom Edibility Classification
 
-A beginner-level binary classification project that predicts whether a mushroom is **edible** or **poisonous** from 22 categorical attributes.
+A binary classification project that predicts whether a mushroom is **edible** or **poisonous** from 22 categorical attributes.
 
 ## Problem Statement
 
