@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="repository cover.jpg" alt="Repository Cover Banner" width="100%">
+</p>
+
 # Applied Statistics and Econometrics Portfolio
 
 A collection of statistical, econometric, machine learning, and predictive modelling projects developed using Python.
