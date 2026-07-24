@@ -96,4 +96,23 @@ Contributions make the data science community amazing! Please read our formal pr
 ## License
 This repository is open-source software licensed under the [MIT License](LICENSE). Feel free to modify, distribute, and implement it across your own learning environments.
 
-  
+## Contact
+For any queries, feel free to reach out:
+
+<a href="mailto:joewasonga1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
+</a>
+
+<a href="https://github.com/JWasonga" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/joewasonga" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+
+###### Thank you for checking out the Crop Recommendation System Using Machine Learning project! Feel free to explore and contribute.
+
+
+
